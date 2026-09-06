@@ -1,0 +1,11 @@
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+--[[
+- I really appreciate it if you join my discord server ^^ 
+- https://discord.gg/GzQGE9rr26
+- if you encounter any bugs or issue with AquaMatrix, please report it to our discord server.
+- AquaMatrix might not work for some executors :(
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExploitFin/AquaMatrix/refs/heads/AquaMatrix/AquaMatrix"))()
